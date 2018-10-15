@@ -27,7 +27,7 @@ bot = InstaBot(
     proxy='',
     # List of list of words, each of which will be used to generate comment
     # For example: "This shot feels wow!"
-    comment_list=[["Shakabra🤙!!!!", "Mahaloo!", "Yeewww!!", "Woohooo!!!", "🤙🐒🌊", "Shakamahaloo", "Yeahh!!", "Wonderful!"]],
+    comment_list=[["Shakabra🤙!!!!", "Mahaloo!", "Yeewww!!", "Woohooo!!!", "🤙🐒🌊", "Shakamahaloo", "Yeahh!!", "Wonderful!", "Shakabra🤙!!!!", "Mahaloo!", "Yeeww!!", "Shakamahaloo🤙🤙", "Woohooo!!!", "🤙🌊","Epicc🤙🐒 $]],
     # Use unwanted_username_list to block usernames containing a string
     ## Will do partial matches; i.e. 'mozart' will block 'legend_mozart'
     ### 'free_followers' will be blocked because it contains 'free'
